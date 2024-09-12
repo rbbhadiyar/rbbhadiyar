@@ -14,7 +14,7 @@
 - 💬 Ask me about **Python, HTML, CSS**
 
 - 📫 How to reach me **rbbhadiyar0916@gmail.com**
-
+  
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1sxdzDPPemOQwsXx-B-03ckrMQiJuqhIw/edit?usp=sharing&ouid=104546113832955011540&rtpof=true&sd=true" target="_blank">Resume<a/>
 
 <h3 align="left">Connect with me:</h3>
