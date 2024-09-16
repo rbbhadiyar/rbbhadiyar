@@ -11,7 +11,7 @@
 
 - I’m currently learning **Java, Javascript, DBMS**
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, HTML, CSS** 
 
 - 📫 How to reach me **rbbhadiyar0916@gmail.com**
 
