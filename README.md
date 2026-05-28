@@ -1,37 +1,153 @@
-<h1 align="center">Hi 👋, I'm Ram Bhanwar</h1>                      
-                          
-<h3 align="center">Programmer...</h3>       
-                 
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="display: inline-block; width: 400px; height: 300px;">
-           
-                
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rbbhadiyar&label=Profile%20views&color=0e75b6&style=flat" alt="rbbhadiyar" /> </p>
-   
-- I’m currently working on **Coding Skills** 
+<div align="center">
 
-- I’m currently learning **Java, Javascript, DBMS**
+# Ram Bhanwar Bhadiyar
 
-- 💬 Ask me about **Python, HTML, CSS** 
+**Full-Stack Developer · ML Engineer · CS Student @ Sitare University**
 
-- 📫 How to reach me **rbbhadiyar0916@gmail.com**
+[![Email](https://img.shields.io/badge/Email-rbbhadiyar0916%40gmail.com-D85A30?style=flat-square&logo=gmail&logoColor=white)](mailto:rbbhadiyar0916@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ram%20Bhanwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-bhanwar-bhadiyar)
+[![Twitter](https://img.shields.io/badge/Twitter-@rb_bhadiyarz-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rb_bhadiyarz)
+[![Location](https://img.shields.io/badge/📍-Jodhpur%2C%20Rajasthan%2C%20India-gray?style=flat-square)](https://maps.google.com/?q=Jodhpur,Rajasthan,India)
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1sxdzDPPemOQwsXx-B-03ckrMQiJuqhIw/edit?usp=sharing&ouid=104546113832955011540&rtpof=true&sd=true" target="_blank">Resume<a/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rb_bhadiyarz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rb_bhadiyarz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ram bhanwar bhadiyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ram bhanwar bhadiyar" height="30" width="40" /></a> 
-</p>
+---
 
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+B.Tech Computer Science student at **Sitare University (with SRMU, Lucknow)**, graduating May 2026. I build full-stack web applications and machine learning solutions — from plagiarism detectors to hypertension prediction systems. Currently deepening expertise in system design, NLP, and scalable APIs.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rbbhadiyar&show_icons=true&locale=en&layout=compact" alt="rbbhadiyar" /></p>
+- 🔭 Working on full-stack projects with **React, Flask, FastAPI, Django**
+- 🧠 Interested in **Machine Learning, NLP, and Information Retrieval**
+- 🏆 **100% Merit Scholarship** recipient — Sitare Foundation & FFE
+- 💬 Ask me about **Python, Flask, REST APIs, ML pipelines**
+- 📄 [View My Resume](https://docs.google.com/document/d/1sxdzDPPemOQwsXx-B-03ckrMQiJuqhIw/edit?usp=sharing)
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=rbbhadiyar&show_icons=true&locale=en" alt="rbbhadiyar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbbhadiyar&" alt="rbbhadiyar" /></p>
+## 🛠 Tech Stack
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbbhadiyar" alt="rbbhadiyar" /></a> </p>
-  
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web Technologies**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**ML & Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3C4A80?style=flat-square)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### [Unified Resource Management System](https://github.com/rbbhadiyar)
+> Flask · React · TypeScript · FastAPI · PostgreSQL · Google OAuth · SendGrid
+
+A full-stack resource management platform with role-based access control, request/return workflows, and automated due-date email reminders. Features Google OAuth, JWT authentication, fine tracking — deployed on Render + Vercel via GitHub CI.
+
+---
+
+### [Plagiarism Detection System](https://github.com/rbbhadiyar)
+> Flask · MySQL · JavaScript · Hashlib
+
+Web-based plagiarism detector using **Winnowing** and **TF-IDF** algorithms for accurate text similarity analysis. Supports multi-file comparison with result visualization and file upload functionality.
+
+---
+
+### [Hypredi — Hypertension Prediction](https://github.com/rbbhadiyar)
+> Flask · Python · Scikit-learn · Pickle
+
+End-to-end ML web app that predicts hypertension risk from user-supplied health data. Trained ML model serialized with Pickle for real-time inference, with a clean, user-friendly interface.
+
+---
+
+### [NewsFeed — Hackathons, Contests & Jobs Aggregator](https://github.com/rbbhadiyar)
+> Django · Python · Bootstrap · Web Scraping · SQL
+
+Contributed as **Frontend Developer** to an aggregator that scrapes hackathons, coding contests, job listings, and news from multiple sources. Built responsive UI using HTML5, CSS, and Bootstrap.
+
+---
+
+### [Library Management System](https://github.com/rbbhadiyar)
+> Flask · MySQL · JavaScript · HTML/CSS
+
+Full-stack library management app with secure authentication and streamlined book issuing/return workflows. MySQL backend for efficient inventory, user records, and transaction history.
+
+---
+
+## 🏆 Achievements & Scholarships
+
+| Award | Organization | Period |
+|---|---|---|
+| 🥇 100% B.Tech CS Scholarship | Sitare Foundation | Aug 2023 – Present |
+| 🎓 FFE Scholarship | Foundation for Excellence | Oct 2023 – Present |
+| 🏅 Academic Excellence Scholarship | Sitare Foundation | Jul 2016 – Apr 2020 |
+
+---
+
+## 📌 Positions of Responsibility
+
+**Class Representative** — Sitare University, Class of 2027 *(Aug 2023 – Aug 2024)*
+> Represented the batch in academic and administrative matters; coordinated between students and faculty for smooth institutional operations.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rbbhadiyar&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbbhadiyar&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rbbhadiyar&hide_border=true&theme=default" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📚 Relevant Coursework
+
+`Advanced DSA` · `OOP` · `DBMS` · `Web Application Development` · `Machine Learning` · `Deep Learning` · `NLP & Search Engines` · `Artificial Intelligence` · `Operating Systems`
+
+---
+
+<div align="center">
+
+*B.Tech Computer Science Engineering — Sitare University with SRMU, Lucknow*
+*Graduation: May 2026*
+
+</div>
