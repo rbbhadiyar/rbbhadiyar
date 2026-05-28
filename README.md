@@ -21,7 +21,7 @@ B.Tech Computer Science student at **Sitare University (with SRMU, Lucknow)**, g
 - 🧠 Interested in **Machine Learning, NLP, and Information Retrieval**
 - 🏆 **100% Merit Scholarship** recipient — Sitare Foundation & FFE
 - 💬 Ask me about **Python, Flask, REST APIs, ML pipelines**
-- 📄 [View My Resume]([https://docs.google.com/document/d/1sxdzDPPemOQwsXx-B-03ckrMQiJuqhIw/edit?usp=sharing](https://drive.google.com/file/d/1ugtpH39G7_Ny5NV4_uYEmiM_fb8a5wD0/view?usp=drive_link))
+- 📄 [View My Resume]((https://drive.google.com/file/d/1ugtpH39G7_Ny5NV4_uYEmiM_fb8a5wD0/view?usp=drive_link))
 
 ---
 
